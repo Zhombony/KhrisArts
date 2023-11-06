@@ -105,7 +105,8 @@ img {
    
 .portfolio {
 	list-style: none;
-    margin: auto;
+        margin-left: 10%;
+	margin-right:10%;
 	padding: 10 10 10 10;
 	display: grid;
 	gap: 0.5rem;
